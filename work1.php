@@ -8,6 +8,8 @@ for($i=1;$i<count($x);$i++)
         $b=$x[$i];
     }
 }
+    echo "array element is:1,2,3,4,5,6";
+    echo"<br>";
     echo " \n large element: ",$b,"\n" ;
     echo"<br>";
 $sm=$x[0];
